@@ -1,0 +1,13 @@
+name: DEKUTeamChooser
+main: Deku.TeamChooser.main
+version: 1.1
+commands:
+   spawn:
+      description: Teleport to spawn
+      usage: /spawn
+   setspawn:
+      description: setting spawn
+      usage: /setspawn
+   join:
+      description: Choose a team
+      usage: /join <team>
